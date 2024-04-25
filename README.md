@@ -1,2 +1,2 @@
 # Crime-Analysis-and-Prediction
-Mechine Learning Project
+Machine Learning Project
